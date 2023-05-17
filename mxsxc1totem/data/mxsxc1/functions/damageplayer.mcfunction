@@ -1,0 +1,1 @@
+damage @p 1000 minecraft:mob_attack
